@@ -1,0 +1,6 @@
+framework module Pods_calendar_iphone {
+  umbrella header "Pods-calendar-iphone-umbrella.h"
+
+  export *
+  module * { export * }
+}
